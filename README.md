@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**splatboy20081/splatboy20081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://img.shields.io/discord/779803483208810506?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
 
 Here are some ideas to get you started:
 
