@@ -16,7 +16,7 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
 [<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][nodejs]
-[<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijide.svg"/>][eclipse]
+[<img align="left" alt="IntelliJ Idea" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][idea]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"/>][unity]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][python]
 
@@ -33,6 +33,6 @@
 [css]: https://en.wikipedia.org/wiki/CSS
 [javascript]: https://www.javascript.com
 [nodejs]: https://nodejs.org
-[eclipse]: https://www.eclipse.org
+[idea]: https://jetbrains.com/idea
 [unity]: https://unity.com
 [python]: https://www.python.org
