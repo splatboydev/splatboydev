@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Discord](https://img.shields.io/discord/779803483208810506?color=7289DA&label=My%20Discord%20Server&logo=Discord&style=plastic)
 
 - 🔭 I’m currently working on a Horror Game.
 - 🌱 I’m currently learning IRL.
