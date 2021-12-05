@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Horror Game.
+- 🔭 I’m currently working on a Paper server, VR game and a scuffed skidded OS.
 - 🌱 I’m currently learning IRL.
 - 💬 Ask me about Discord.js & Java problems.
 - 📫 How to reach me: [<img alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>](https://discord.gg/4BcwSqTGfU)
