@@ -1,6 +1,6 @@
 ### Hi there, I'm Splatboy Dev! 👋
 
-- 🔭 I’m currently working on an [IonSpigot fork](https://github.com/splatboy20081/Neon), [Anticheat](https://github.com/splatboy20081/Degrade) and a scuffed skidded OS.
+- 🔭 I’m currently working on an [NCP fork](https://github.com/splatboy20081/SplatboysNCP), [Anticheat](https://github.com/splatboy20081/Degrade) and a scuffed skidded OS.
 - 🌱 I’m currently learning IRL.
 - 💬 Ask me about Discord.js & Java problems.
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
