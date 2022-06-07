@@ -23,7 +23,7 @@
 <br/>
 
 <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Splatboy Dev's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=splatboy20081&show_icons=true&hide_border=true&theme=dark"/img>
+    <img align="left" alt="Splatboy Dev's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=splatboydev&show_icons=true&hide_border=true&theme=dark"/img>
 
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
