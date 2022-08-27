@@ -1,6 +1,6 @@
 ### Hi there, I'm Splatboy Dev! 👋
 
-- 🔭 I’m currently working on an [NCP fork](https://github.com/splatboy20081/SplatboysNCP), [Anticheat](https://github.com/splatboy20081/Degrade) and a scuffed skidded OS.
+- 🔭 I’m currently working on a GameMaker Studio game.
 - 🌱 I’m currently learning IRL.
 - 💬 Ask me about Discord.js & Java problems.
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
@@ -18,7 +18,7 @@
 [<img align="left" alt="IntelliJ Idea" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][idea]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg"/>][unity]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][python]
-
+[<img align="left" alt="GML" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/32/gamemaker_icon_132357.png"/>][gml]
 <br/>
 <br/>
 
@@ -35,3 +35,4 @@
 [idea]: https://jetbrains.com/idea
 [unity]: https://unity.com
 [python]: https://www.python.org
+[gml]: https://manual.yoyogames.com/GameMaker_Language/GameMaker_Language_Index.htm
