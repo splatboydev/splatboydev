@@ -6,6 +6,8 @@
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
 - 😄 Pronouns: He/Him
 
+[<div align='center'><img src='https://www.websitecounterfree.com/c.php?d=9&id=21668&s=1' border='0' alt='Free Website Counter'><br/></div>]
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
