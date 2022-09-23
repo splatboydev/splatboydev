@@ -6,7 +6,7 @@
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
 - 😄 Pronouns: He/Him
 
-[<div align='center'><img src='https://www.websitecounterfree.com/c.php?d=9&id=21668&s=1' border='0' alt='Free Website Counter'><br/></div>]
+<div align='left'><img src='https://www.websitecounterfree.com/c.php?d=9&id=21668&s=1' border='0' alt='Free Website Counter'><br/></div>
 
 ### Languages and Tools:
 
