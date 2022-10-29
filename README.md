@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/Him
 
 <div align='left'><img src='https://www.websitecounterfree.com/c.php?d=9&id=21668&s=1' border='0' alt='Free Website Counter'><br/></div>
+View goal: ~~100~~ 250
+
 
 ### Languages and Tools:
 
