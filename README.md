@@ -1,12 +1,12 @@
 ### Hi there, I'm Splatboy Dev! 👋
 
-- 🔭 I’m currently working on a GameMaker Studio game.
+- 🔭 I’m currently working on a Firefox fork and trying to complete LFS..
 - 🌱 I’m currently learning IRL.
 - 💬 Ask me about Discord.js & Java problems.
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
 - 😄 Pronouns: He/Him
 
-View goal: ~~100~~ 250
+View goal: ~~100~~ ~~250~~ 300
 
 <div align='left'><img src='https://www.websitecounterfree.com/c.php?d=9&id=21668&s=1' border='0' alt='Free Website Counter'><br/></div>
 
