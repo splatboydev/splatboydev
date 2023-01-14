@@ -1,10 +1,10 @@
 ### Hi there, I'm Splatboy Dev! 👋
 
 - 🔭 I’m currently working on a Firefox fork and trying to complete LFS..
-- 🌱 I’m currently learning IRL.
-- 💬 Ask me about Discord.js & Java problems.
+- 🌱 I’m currently learning in real life
+- 💬 Ask me about programming problems.
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
-- 😄 Pronouns: He/Him
+- 😄 I am a straight guy.
 
 View goal: ~~100~~ ~~250~~ ~~300~~ 400!
 
