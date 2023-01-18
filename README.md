@@ -6,9 +6,9 @@
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
 - 😄 I am a straight guy.
 
-View goal: ~~100~~ ~~250~~ ~~300~~ 400!
+View goal: ~~100~~ ~~250~~ ~~300~~ 400! (reset)
 
-<div align='left'><img src='https://www.websitecounterfree.com/c.php?d=9&id=21668&s=1' border='0' alt='Free Website Counter'><br/></div>
+<img src="https://profile-counter.glitch.me/splatboydev/count.svg"></img>
 
 
 ### Languages and Tools:
