@@ -27,7 +27,8 @@ View goal: ~~100~~ ~~250~~ ~~300~~ 400!
 <br/>
 
 <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Splatboy Dev's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=splatboydev&show_icons=true&hide_border=true&theme=dark"/img>
+    <img align="left" alt="Splatboy Dev's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=splatboydev&show_icons=true&hide_border=true&theme=synthwave"/img>
+    <img align="center" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splatboydev&langs_count=10&theme=synthwave&hide_border=true"/img>
 
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
