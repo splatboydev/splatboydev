@@ -6,7 +6,7 @@
 - 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
 - 😄 I am a straight guy.
 
-View goal: ~~100~~ ~~250~~ ~~300~~ 400! (reset)
+View goal: ~~100~~ ~~250~~ ~~300~~ ~~400~~
 
 <img src="https://profile-counter.glitch.me/splatboydev/count.svg"></img>
 
