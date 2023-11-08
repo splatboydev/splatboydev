@@ -1,12 +1,6 @@
 ### Hi there, I'm Splatboy Dev! 👋
 
-- 🔭 I’m currently working on a Firefox fork and trying to complete LFS..
-- 🌱 I’m currently learning in real life
-- 💬 Ask me about programming problems.
-- 📫 How to reach me: DM me @ ``Splatboy Dev#5923``.
-- 😄 I am a straight guy.
-
-View goal: ~~100~~ ~~250~~ ~~300~~ ~~400~~
+deez nuts fr
 
 <img src="https://profile-counter.glitch.me/splatboydev/count.svg"></img>
 
