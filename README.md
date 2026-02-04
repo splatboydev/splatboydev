@@ -1,6 +1,4 @@
-### Hi there, I'm Splatboy Dev! 👋
 
-deez nuts fr
 
 <img src="https://profile-counter.glitch.me/splatboydev/count.svg"></img>
 
